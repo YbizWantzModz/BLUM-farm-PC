@@ -3,7 +3,7 @@
 Blum AutoFarm is an automated farming tool for **BLUM cryptocurrency** on PC.  
 💎 **100% Automatic | 🚀 Fast | ☁️ Cloud-Based | 🔥 Easy to Use**
 
-![Blum AutoFarm](images/banner.png)
+![Blum AutoFarm]([images/banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fchainplay.gg%2Fblog%2Fwhat-is-blum-crypto-telegram-and-how-to-get%2F&psig=AOvVaw0WymYcCZV_cDRrCgQ1ita5&ust=1739306424543000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiS4cP7uYsDFQAAAAAdAAAAABAS))
 
 ---
 
